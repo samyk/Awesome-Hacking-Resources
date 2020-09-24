@@ -64,6 +64,7 @@ Sharpening Your Skills
 * [SmashTheStack](http://smashthestack.org/wargames.html)
 * [Root-Me](https://www.root-me.org/)
 * [PicoCTF](https://2017game.picoctf.com/)
+* [Try Hack Me](https://tryhackme.com/)
 * [Shellter Labs](https://shellterlabs.com/en/)
 * [Stripe CTF 2.0](https://github.com/stripe-ctf/stripe-ctf-2.0)
 
